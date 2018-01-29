@@ -1,0 +1,10 @@
+<VirtualHost *:80>
+ DocumentRoot "C:\xampp\htdocs\name_registration_system\public"
+ ServerName laravel.test
+ <Directory "C:\xampp\htdocs\name_registration_system\public">
+ Options FollowSymLinks
+ AllowOverride All
+ DirectoryIndex index.php
+ Require all granted
+ </Directory>
+</VirtualHost>
