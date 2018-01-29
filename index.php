@@ -254,7 +254,7 @@
                       
                       <p>dasdasdasdasdsadsads</p>
                       <p>2324323432434</p>
-                      <button type="button" class="btn btn-info">Info</button>
+                      <button type="text" class="btn btn-info">Info</button>
                       <button type="button" class="btn btn-info">Info</button>
 
                     </div>
